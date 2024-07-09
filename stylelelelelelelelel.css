@@ -1,0 +1,22 @@
+body{
+    background-image: "bg.png";
+    background: cover;
+}
+.main-div{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    top: 0;
+    box-shadow: 0px 10px 25px black;
+}
+#title{
+    font-size: 30px;
+}
+
+canvas{
+    box-shadow: 0px 0px 15px white;
+    border-color: white;
+    border-radius: 35px;
+    border-width: 5px;
+    background-color: white;
+}
